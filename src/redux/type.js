@@ -1,0 +1,9 @@
+export const GET_LIST = "GET-LIST";
+export const CONTACT_EDIT = "CONTACT-EDIT";
+export const EVENTUALLY = "EVENTUALLY";
+export const EDIT_LOCAL_CONTACT = "EDIT-LOCAL-CONTACT";
+export const LOADER_DISPLAY_ON = "LOADER_DISPLAY_ON";
+export const LOADER_DISPLAY_OFF = "LOADER_DISPLAY_OFF";
+export const SEARCH = "SEARCH";
+export const SEARCH_ON = "SEARCH-ON";
+export const SEARCH_OFF = "SEARCH-OFF";
